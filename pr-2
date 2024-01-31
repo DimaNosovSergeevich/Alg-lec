@@ -1,0 +1,21 @@
+x1 = 20
+x2 = 10
+s1 = x1*2 or x*2 == 20
+s2 = x1*2 or x*2 == 40
+s3 = x1*2 or x*2 == 150
+s4 = x1*2 or x*2 == 780
+print(s1)
+print(s2)
+print(s3)
+print(s4)
+
+x1 = 20
+x2 = 10
+s1 = x1*2 or x*4 == 40
+s2 = x1*5 or x*10 == 100
+s3 = x1*2 or x*4 == 800
+s4 = x1*5 or x*10 == 785
+print(s1)
+print(s2)
+print(s3)
+print(s4)
